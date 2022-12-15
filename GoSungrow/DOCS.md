@@ -91,7 +91,13 @@ You'll need to modify the ps_id and ps_keys within these files to display the co
 
 You can use the GoSungrow tool to get this info:
   GoSungrow show ps tree
+  
+You'll also need to grab some common 3rd party lovelace frontends:
 
+[Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card)
+[mini-graph-card](https://github.com/kalkih/mini-graph-card)
+
+All available easily in HACS.
 
 ## About GoSunGrow
 See the docs here [GoSunGrow](https://github.com/MickMake/GoSunGrow/)
